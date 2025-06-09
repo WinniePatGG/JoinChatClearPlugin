@@ -1,0 +1,7 @@
+name: JoinChatClearPlugin
+version: '1.0'
+main: de.winniepat.joinChatClearPlugin.JoinChatClearPlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ WinniePat ]
+website: https://winniepat.de
